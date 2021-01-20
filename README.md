@@ -1,4 +1,3 @@
 # Ecommerce
 
-## E commerce Application
 
